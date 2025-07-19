@@ -6,11 +6,7 @@ Preview 🖼️
 
 ### 🏠 Home Page
 ![Home Page](./Screenshot%202025-07-19%20151648.png)
-
-### 🧼 Grooming Services
 ![Grooming Services](./Screenshot%202025-07-19%20151707.png)
-
-### 🩺 Healthcare Section
 ![Healthcare](./Screenshot%202025-07-19%20151816.png)
 
 
