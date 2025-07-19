@@ -1,8 +1,8 @@
-#🐾 Pet Paradise – Pet Shop Webpage
+# Pet Paradise  <br>
 A responsive and visually engaging pet shop website built using HTML, CSS, and JavaScript. This project showcases an online platform that provides services such as pet grooming, pet healthcare, and pet food delivery
 
 <br>
-🖼️ Preview
+Preview 🖼️ 
 
 
 🗂️ Project Structure
