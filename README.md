@@ -6,10 +6,10 @@ A responsive and visually engaging pet shop website built using HTML, CSS, and J
 
 
 🗂️ Project Structure
-pet_shop_webpage/
-│
-├── index1.html         # Main webpage (home)
-├── login.html          # Login interface
+pet_shop_webpage/<br>
+│  
+├── index1.html         # Main webpage (home)  
+├── login.html          # Login interface  
 ├── styles1.css         # All styling
 ├── script.js           # Carousel or interactivity scripts
 ├── loginbg.jpg         # Background image for login
